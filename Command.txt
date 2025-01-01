@@ -1,0 +1,12 @@
+🔰 OSINT tool for finding email by first and last name 
+
+INSTALLATION 👇
+
+apt update
+apt upgrade
+apt install git
+apt install python
+pip3 install requests
+git clone https://github.com/mishakorzik/MailFinder
+cd MailFinder
+python MailFinder.py
